@@ -8,4 +8,9 @@ really Good if you want to Practice your Frontend Skill.
 if you have a question or something in this project dont
 hesitate to message me . Mabuhay!
 
-Preview of this Component
+Preview of this Component in Desktop View
+
+<img width="917" alt="FRONTEND HELL YEAR 4" src="https://github.com/AkoToSiJeromeEh/Darling--Article--Preview/assets/114987334/2b52a662-9961-4f1e-be59-ae2fbaad7808">
+
+
+Preview of this Component in Mobile View
