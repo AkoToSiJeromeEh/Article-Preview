@@ -1,0 +1,21 @@
+footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-height: 8vh;
+    background-color:   hsla(0, 0%, 2%, 0.071)
+}
+div > small {
+    font-family: 'Manrope', sans-serif; 
+    color: rgb(1, 1, 1);
+    font-size: 14px;
+}
+small > a {
+    color: black;
+}
+@media(max-width:400px){
+    div > small {
+        font-size: 12px;
+    }
+}

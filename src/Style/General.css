@@ -1,0 +1,11 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: hsl(210, 46%, 95%);
+}
+h2,h3,h6,small,p{
+    margin: 0;
+    padding: 0;
+}
