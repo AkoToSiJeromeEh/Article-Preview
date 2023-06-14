@@ -1,5 +1,5 @@
 🔥 Darling--Article--Preview 
-🚀 Article -- Challenge
+🚀 Frontend Mentor Challenge
 
 🧔 Hi i am Jeje and i just want to say that i created a 
 Article Preview Using React js And Pure Css , and this 
